@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the coronation of our most illustrious sovereign K. James II. and His gracious consort Queen Mary who were crown'd at Westminster, on St. George's-Day, being the 23th. this instant April 1685 written by a Person of Quality.</title>
+            <author>Willoughby, Stephen, b. 1657 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96641</idno>
+            <idno type="STC">Wing W2862A</idno>
+            <idno type="STC">ESTC R17069</idno>
+            <idno type="EEBO-CITATION">99896072</idno>
+            <idno type="PROQUEST">99896072</idno>
+            <idno type="VID">153767</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153767)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the coronation of our most illustrious sovereign K. James II. and His gracious consort Queen Mary who were crown'd at Westminster, on St. George's-Day, being the 23th. this instant April 1685 written by a Person of Quality.</title>
+                  <author>Willoughby, Stephen, b. 1657 or 8.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thompson at the entrance into the Old-Spring-Garden near Charing-Cross,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCLXXXV. [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Person of Quality = Stephen Willoughby. Cf. Wing CD-ROM, 1996.</note>
+                  <note>In verse.</note>
+                  <note>Identified as W2862A, reel 2378, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+                  <note>Identified by ESTC as Wing (CD-ROM, 1996) P2689A.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Coronation --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153767:1" rendition="simple:additions"/>
+            <p>A POEM ON THE CORONATION Of our moſt Illuſtrious Sovereign K. JAMES II. And His Gracious CONSORT Queen MARY, Who were Crown'd at WESTMINSTER, On St. <hi>George</hi>'s-<hi>Day,</hi> being the <hi>23th.</hi> this Inſtant <hi>Arpil</hi> 1685 Written by a Perſon of Quality.</p>
+            <q>
+               <hi>Jupiter in Caelis,</hi> Caeſar <hi>regat omnia Terris.</hi>
+            </q>
+            <p>Printed by <hi>Nathaniel Thompſon</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:153767:2"/>
+            <pb n="1" facs="tcp:153767:2"/>
+            <head>A POEM on the CORONATION.</head>
+            <lg>
+               <l>FLie Envious <hi>Time;</hi> why doſt our Bliſs delay?</l>
+               <l>Repair <hi>Death's</hi> &amp; Thy wrongs, &amp; give Us <hi>Day;</hi>
+               </l>
+               <l>The Day which from our Woes muſt free us all,</l>
+               <l>Whom Grief would elſe Martyr in CHARLES'S fall:</l>
+               <l>That Ador'd Monarch, whoſe Illuſtrious Name</l>
+               <l>Alone, ſpeaks more, than all the Tongues of Fame.</l>
+               <l>Whoſe Loſs, levy'd a Tax of Sighs, and Moan,</l>
+               <l>And forc'd the World t'an Univerſal Groan.</l>
+               <l>Hold, hold my <hi>Muſe</hi>-The <hi>Dawn</hi> new-gilds the Skies,</l>
+               <l>See where Great JAMES our ſecond Sun does riſe,</l>
+               <l>And quite exhales theſe Vapours from our Eyes.</l>
+               <l>Tears, and the Sable ſigns of Grief, give way,</l>
+               <l>Chac'd by the Beams of this moſt Glorious Day;</l>
+               <l>A Day, doubly deſign'd by Deſtiny</l>
+               <l>To remain Sacred to Poſterity.</l>
+               <l>Something for <hi>GEORGE</hi>'s Birth was to <hi>It</hi> due,</l>
+               <l>But now it is <hi>Three Kingdoms Birth-Day</hi> too,</l>
+               <l>From this CORONATION <hi>We</hi> our Lives Renew.</l>
+               <l>Each <hi>Loyal Heart</hi> is ſtruck by'ts <hi>Sov'reign Rays,</hi>
+               </l>
+               <l>And's fill'd at once with <hi>Gratitude</hi> and <hi>Praiſe.</hi>
+               </l>
+               <pb n="2" facs="tcp:153767:3"/>
+               <l>Hark! how the <hi>Streets</hi> with <hi>cheerful Shouts</hi> do Ring,</l>
+               <l>Exceſſive Joys in ev'ry Boſom ſpring,</l>
+               <l>And the whole Town do 10 <hi>PAEANS</hi> ſing.</l>
+               <l>While th' Air as loath ſuch Loyal Sounds to loſe,</l>
+               <l>With thouſand <hi>Ecchoes</hi> does prolong each cloſe;</l>
+               <l>Behold what heaps of <hi>Hatts,</hi> aloft there fly,</l>
+               <l>Like thickn'd <hi>Clouds,</hi> they ſteal away the <hi>Sky.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>T'attend this Earthly <hi>Jove,</hi> the World agrees,</l>
+               <l>
+                  <hi>In landers</hi> leave their <hi>Homes, Sea-men</hi> the <hi>Seas;</hi>
+               </l>
+               <l>Both <hi>Engliſh</hi> born, and thoſe that <hi>Neighbours</hi> are;</l>
+               <l>With Exultation cleave the yielding <hi>Air.</hi>
+               </l>
+               <l>So in ſome <hi>Garden,</hi> deckt with <hi>Flora</hi>'s Pride,</l>
+               <l>Where all the <hi>Glories</hi> of the <hi>Spring</hi> reſide,</l>
+               <l>There near a <hi>Waxen Canopy</hi> we ſee,</l>
+               <l>Thouſands thus Bus about the <hi>Royal-Bee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nature, at this <hi>Solemnity</hi> Revives,</l>
+               <l>And the glad Earth by <hi>JAMES</hi>'s Infl'ence Thrives;</l>
+               <l>
+                  <hi>Hills, Vallies, Woods,</hi> are dreſt to New Attire,</l>
+               <l>
+                  <hi>April</hi> at its own Beauty does Admire.</l>
+               <l>The wing'd <hi>Muſicians Carol</hi> in the <hi>Air,</hi>
+               </l>
+               <l>The Spacious Meadows, <hi>Green-Pluſh</hi> Mantles wear,</l>
+               <l>Nay, the pleas'd <hi>Heaven</hi>'s without a <hi>Cloud</hi> appear.</l>
+               <l>VVhile all the <hi>Flowers</hi> of the <hi>Spring</hi> do meet,</l>
+               <l>And, than <hi>Arabian Spices,</hi> ſmell more ſweet,</l>
+               <l>The Mighty <hi>Pan,</hi> the Mighty <hi>Pan</hi> to <hi>Greet.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How ſenſible the <hi>Houſes</hi> are, 'tis <hi>He!</hi>
+               </l>
+               <l>VVho but in <hi>Arras Gowas</hi> the <hi>King</hi> will ſee.</l>
+               <pb n="3" facs="tcp:153767:3"/>
+               <l>
+                  <hi>Walls, Windows, Roofs, Tow'rs, Steeples,</hi> all are ſet</l>
+               <l>VVith ſeveral <hi>Eyes,</hi> but the leaſt Glimpſe to get.</l>
+               <l>And lo, the <hi>Coſtly Pomp</hi> is now in view,</l>
+               <l>VVhich claims our <hi>Wonder,</hi> and our <hi>Homage</hi> too.</l>
+               <l>The like of this Day's State not <hi>Italy</hi> Sings,</l>
+               <l>
+                  <hi>Conſular Triumphs,</hi> were but petty Things:</l>
+               <l>
+                  <hi>Rome</hi> too as ſhort of this in <hi>Shows,</hi> you'll find,</l>
+               <l>As her <hi>Now Glories,</hi> are from thoſe declin'd.</l>
+            </lg>
+            <lg>
+               <l>Triumphant Sight! In this one Train we may</l>
+               <l>Of all that's <hi>Noble,</hi> take a full Survey.</l>
+               <l>Do <hi>Arms</hi> Delight ye? Surfeit here your View</l>
+               <l>On <hi>Troops,</hi> as can th' Inſulting World ſubdue.</l>
+            </lg>
+            <lg>
+               <l>Nay <hi>Learning</hi> here in its Perfection ſhines,</l>
+               <l>And <hi>Athens</hi> now to <hi>Weſtminſter</hi> Reſigns.</l>
+               <l>
+                  <hi>Religion, Law,</hi> each her beſt Charms diſplays,</l>
+               <l>Chear'd by the Warmth of His Indulgent Rayes,</l>
+               <l>VVho gave His <hi>Word,</hi> that He'll maintain their State,</l>
+               <l>His <hi>Word,</hi> Unalterable as the Book of Fate.</l>
+            </lg>
+            <lg>
+               <l>VVho'll ſay, the City Brethren, Miſers he,</l>
+               <l>And but beholds, their this Days Bravery?</l>
+               <l>None, none; and by their Gallantry, all gueſs,</l>
+               <l>Their <hi>Loyalty</hi>'s the Cauſe of this Exceſs.</l>
+            </lg>
+            <lg>
+               <l>VVhat Rich Attire the <hi>Spirit'al Lords</hi> array!</l>
+               <l>VVhat <hi>Maſſie Coronets</hi> Adorn the Lay!</l>
+               <l>Such Cloaths of <hi>Gold</hi> and <hi>Silver,</hi> Kill my Brain,</l>
+               <l>My <hi>Opticks</hi> fail, and I grow Blind again.</l>
+               <pb n="4" facs="tcp:153767:4"/>
+               <l>
+                  <hi>Arch-Angels</hi> ſure, leaving their Glorious sphere,</l>
+               <l>Once more themſelves have Bodify'd, and here</l>
+               <l>Reſolve, as <hi>Engliſh Nobles</hi> to appear.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Princes</hi> who've ſtill been waited on, now wait,</l>
+               <l>And <hi>Bowing</hi> Here, they count they ſit in State.</l>
+            </lg>
+            <lg>
+               <l>But ſtay! — In this <hi>Terreſtial Galary.</hi>
+               </l>
+               <l>A <hi>Glitt'ring Troop,</hi> of <hi>Beauties</hi> I deſcry,</l>
+               <l>VVho Raviſh with too Bright a <hi>Tyrany.</hi>
+               </l>
+               <l>Such <hi>Luſtre</hi> ne're was ſeen in <hi>Thetis Train,</hi>
+               </l>
+               <l>VVhen Dreſt i'th' Native <hi>Jewels</hi> of the <hi>Main.</hi>
+               </l>
+               <l>At ev'ry Look I take new Charms ariſe,</l>
+               <l>Bright are their <hi>Diamonds,</hi> Brighter are their <hi>Eyes.</hi>
+               </l>
+               <l>And in each Lovely Face, do plainly move,</l>
+               <l>Un-number'd Signs of <hi>Beauty, Wit</hi> and <hi>Love.</hi>
+               </l>
+               <l>Shou'd Cold <hi>Diogenes</hi> theſe <hi>Fair Ones</hi> ſee.</l>
+               <l>Pierc'd by their <hi>Darts</hi> he wou'd Enamour'd be.</l>
+            </lg>
+            <lg>
+               <l>But what Freſh Object's this Invades my Eye,</l>
+               <l>And bids my Soul gaze there Eternally?</l>
+               <l>Aſſur'd I am, our <hi>Climate</hi> never held</l>
+               <l>Before a <hi>Beauty</hi> ſo unparallel'd.</l>
+               <l>All <hi>Heavenly Features</hi> joyn themſelves in one,</l>
+               <l>To ſhew their Triumph in this <hi>Face</hi> alone;</l>
+               <l>The <hi>Salvages,</hi> that Worſhip the <hi>Suns Riſe,</hi>
+               </l>
+               <l>Wou'd hate their <hi>God,</hi> if they beheld theſe <hi>Eyes.</hi>
+               </l>
+               <l>The <hi>Wealth</hi> She wears about her, more does hide</l>
+               <l>Than it Adorns, her <hi>Native Beauty</hi>'s Pride.</l>
+               <pb n="5" facs="tcp:153767:4"/>
+               <l>
+                  <hi>Mirour</hi> of <hi>Heav'n! Wonder</hi> of the <hi>Earth!</hi>
+               </l>
+               <l>Oh! thou <hi>Bright Goddeſs</hi> of <hi>Caeleſtial Birth!</hi>
+               </l>
+               <l>Now <hi>Caeſar</hi>'s Glory Augmentable ſeems,</l>
+               <l>Since You appear, and daign to mix your <hi>Beams,</hi>
+               </l>
+               <l>'Tis She! 'Tis <hi>England</hi>'s QUEEN whom thus we view,</l>
+               <l>QUEEN long ago, and now <hi>Anointed</hi> too.</l>
+               <l>The <hi>Crown,</hi> not Her, but She the <hi>Crown</hi> does Grace,</l>
+               <l>Before She ſway'd an <hi>Empire</hi> in Her Face.</l>
+               <l>Had <hi>Virgil</hi> liv'd this MARY but to ſee,</l>
+               <l>
+                  <hi>Dido</hi> had in Oblivion Slept, and She</l>
+               <l>Had giv'n his <hi>Muſe,</hi> Her beſt <hi>Eternity.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now the <hi>Monarch</hi> of the Day's in ſight,</l>
+               <l>From whom, the reſt receive their Borrow'd <hi>Light.</hi>
+               </l>
+               <l>Who giving way, His <hi>Brighter Splendour</hi> own,</l>
+               <l>As <hi>Stars</hi> do vaniſh at th' approach o'th' <hi>Sun.</hi>
+               </l>
+               <l>Oh! what a Flood of Virtues from Him flows!</l>
+               <l>How like a <hi>God</hi> Inſtall'd on Earth He ſhows!</l>
+               <l>Thus when the Thickeſt Darkneſs <hi>Phoebus</hi> Shrowds,</l>
+               <l>VVith greater Fulgence he breaks through thoſe <hi>Clouds:</hi>
+               </l>
+               <l>Look on His <hi>Face,</hi> his <hi>Royal Mein</hi> but mind,</l>
+               <l>And to be <hi>Traytors</hi> now, we muſt be blind.</l>
+               <l>Mankinds Delight! and <hi>Heavens</hi> chiefeſt Care,</l>
+               <l>To Vict'ry, as to's <hi>Crown</hi> the <hi>Lawful Heir.</hi>
+               </l>
+               <l>The VVorld has always Shook at His <hi>Alarms,</hi>
+               </l>
+               <l>At <hi>Sea</hi> and <hi>Land</hi> Succeſs ſtill Crown'd His <hi>Arms.</hi>
+               </l>
+               <pb n="6" facs="tcp:153767:5"/>
+               <l>Ye Bold <hi>Excluders,</hi> ſee your Injur'd Prince,</l>
+               <l>And may this Sight you of your Crime convince,</l>
+               <l>Crouch, Crouch, <hi>Rebellous Sirs,</hi> &amp; own your Inſolence</l>
+               <l>Both how to <hi>Pardon,</hi> and <hi>Revenge,</hi> He knows,</l>
+               <l>To Guard his <hi>Friends,</hi> and to Deſtroy his <hi>Foes.</hi>
+               </l>
+               <l>Down, down then at His <hi>Feet</hi> without delay,</l>
+               <l>VVith double <hi>Loyalty</hi> His VVrongs repay;</l>
+               <l>Lay, Iay Him in your Hearts, and beg of Fate,</l>
+               <l>He long may Reign, though he is Crown'd, but late</l>
+               <l>He ſhall; for th' thing that's ſlowly's ſure done,</l>
+               <l>And He whom <hi>heaven</hi> deſigns to fix on's <hi>Throne,</hi>
+               </l>
+               <l>It is the longer ſitting Him thereon</l>
+               <l>No more ſhall Law leſs, Hair brain'd <hi>Faction Rage,</hi>
+               </l>
+               <l>But may His Reign bring back the <hi>Golden Age.</hi>
+               </l>
+               <l>May from His Sacred Conſort's VVombs Increaſe,</l>
+               <l>Spring Preſent Joy, and Future Ages <hi>Peace.</hi>
+               </l>
+               <l>Let's keep that Path, which He, (a <hi>Subject</hi>) made,</l>
+               <l>VVho ſtill His King, Unmurmuring Obey'd.</l>
+               <l>Let's think His Foes be Ours, as ſo They are,</l>
+               <l>Think on His <hi>Martyr'd Father,</hi> and beware.</l>
+               <l>And let this Sight, (though ended,) ne're be done,</l>
+               <l>But let it ſtill, and ſtill be Thought upon,</l>
+               <l>And Thought on, ev'n to Convert <hi>Rebellion.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
